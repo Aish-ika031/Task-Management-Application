@@ -39,6 +39,7 @@ task-manager/
 │   ├── App.jsx
 │   ├── App.css
 │   ├── main.jsx
+|   ├── index.css
 │   └── assets/
 │
 ├── package.json
