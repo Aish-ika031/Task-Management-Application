@@ -91,15 +91,3 @@ http://localhost:5173
 * Search and filter tasks instantly
 * Toggle between Dark and Light themes
 * Interactive and responsive user interface
-
----
-
-## 🔮 Future Enhancements
-
-* ✏️ Edit existing tasks
-* 💾 Save tasks using Local Storage
-* 🔔 Browser notifications for upcoming deadlines
-* 🏷️ Task priority (High, Medium, Low)
-* 📊 Dashboard with task statistics
-* 👤 User authentication
-* ☁️ Backend integration with REST APIs
