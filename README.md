@@ -92,3 +92,5 @@ http://localhost:5173
 * Search and filter tasks instantly
 * Toggle between Dark and Light themes
 * Interactive and responsive user interface
+
+<img width="834" height="475" alt="image" src="https://github.com/user-attachments/assets/04fdfd7e-8d73-423b-bde8-3ef22a2a91f8" />
