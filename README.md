@@ -1,16 +1,105 @@
-# React + Vite
+# 📋 Task Management Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Task Management Application** built with **React.js** that helps users organize tasks, track deadlines, and manage daily activities efficiently.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* ➕ Add new tasks
+* 🗑️ Delete tasks
+* ✅ Mark tasks as Completed or Pending
+* 📅 Set Due Date & Time for each task
+* ⏰ Display remaining time until the deadline
+* 🔴 Highlight overdue tasks
+* 🔍 Search tasks by title
+* 📂 Filter tasks (All, Pending, Completed)
+* 🌙 Dark / Light Mode
+* 🎨 Modern Glassmorphism UI
+* 📱 Responsive design for desktop and mobile
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* React Hooks (`useState`)
+* Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Structure
+
+```text
+task-manager/
+│
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── assets/
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Aish-ika031/Task-Management-Application.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Task-Management-Application
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 📸 Application Features
+
+* Create and manage daily tasks
+* Set deadlines with date and time
+* Track remaining time for each task
+* Automatically identify overdue tasks
+* Search and filter tasks instantly
+* Toggle between Dark and Light themes
+* Interactive and responsive user interface
+
+---
+
+## 🔮 Future Enhancements
+
+* ✏️ Edit existing tasks
+* 💾 Save tasks using Local Storage
+* 🔔 Browser notifications for upcoming deadlines
+* 🏷️ Task priority (High, Medium, Low)
+* 📊 Dashboard with task statistics
+* 👤 User authentication
+* ☁️ Backend integration with REST APIs
